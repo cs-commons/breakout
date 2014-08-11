@@ -1,0 +1,25 @@
+{
+  "title": "Breakout",
+  "type": "assignment",
+  "authors": [
+    {
+      "name": "David Hovemeyer",
+      "email": "dhovemey@ycp.edu",
+      "website": "http://faculty.ycp.edu/~dhovemey"
+    }
+  ],
+  "license": {
+    "shortname": "CC BY-SA 4.0",
+    "fullname": "Creative Commons Attribution-ShareAlike 4.0",
+    "website": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  "keywords": [
+    "cs1",
+    "breakout",
+    "game",
+    "structs",
+    "encapsulation"
+  ],
+  "repo_git_url": "git@github.com:cs-commons/breakout",
+  "repo_pub_url": "https://github.com/cs-commons/breakout"
+}
